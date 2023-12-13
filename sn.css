@@ -24,7 +24,7 @@
   }
   .card-front {
     position: relative;
-    background-image: url('/Narumi/1.png');
+    background-image: url('Narumi/1.png');
     background-size: cover;
     background-position: center;
     width: var(--card-width); /* Use variable for width */
@@ -37,7 +37,7 @@
 
 .card-inside {
     position: absolute;
-    background-image: url('/Narumi/2.png');
+    background-image: url('Narumi/2.png');
     background-size: cover;
     background-position: center;
     width: var(--card-width); /* Use variable for width */
